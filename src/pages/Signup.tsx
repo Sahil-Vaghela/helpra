@@ -52,7 +52,7 @@ export default function Signup() {
         className="w-full max-w-md bg-white rounded-3xl shadow-soft border border-border p-8"
       >
         <div className="text-center mb-8">
-          <h2 className="text-3xl font-bold text-dark-text mb-2">Join RoadAssist</h2>
+          <h2 className="text-3xl font-bold text-dark-text mb-2">Join Helpra</h2>
           <p className="text-secondary-text">Create an account for instant roadside help</p>
         </div>
 

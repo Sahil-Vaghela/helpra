@@ -94,7 +94,7 @@ export default function Navbar() {
             ) : (
               <div className="hidden lg:flex items-center gap-4">
                 <Link to="/login" className="text-sm font-bold hover:text-primary transition-colors">Login</Link>
-                <Link to="/signup" className="px-5 py-2 bg-primary text-white rounded-full text-sm font-bold hover:bg-primary-hover transition-colors">Sign Up</Link>
+                <Link to="/signup" className="btn-primary px-5 py-2 text-sm px-5 py-2 bg-primary text-white rounded-full text-sm font-bold hover:bg-primary-hover transition-colors">Sign Up</Link>
               </div>
             )}
             

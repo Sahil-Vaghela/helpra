@@ -1,0 +1,7 @@
+{
+  "name": "QuickFix Assist",
+  "description": "Professional roadside assistance booking application with real-time-like experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

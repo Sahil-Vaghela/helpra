@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "Sharma Auto Garage",
+    "rating": 4.7,
+    "distance": "1.1 km",
+    "specialty": "Car",
+    "experience": "12 years",
+    "image": "https://gomechanic.in/blog/wp-content/uploads/2022/10/PHOTO-2022-10-01-15-34-39-2-1000x563.jpg",
+    "phone": "+919810000101"
+  },
+   {
+    "id": 21,
+    "name": "Kaur car Service Wale",
+    "rating": 4.6,
+    "distance": "1.4 km",
+    "specialty": "Car",
+    "experience": "8 years",
+    "image": "https://content3.jdmagicbox.com/v2/comp/kolkata/i1/033pxx33.xx33.211217154651.m3i1/catalogue/car-service-wale-tiljala-kolkata-tyre-dealers-sclrsbpzrh.jpg",
+    "phone": "+919810000121"
+  },
+  {
+    "id": 22,
+    "name": "Thakur Truck Repairing",
+    "rating": 4.7,
+    "distance": "2.9 km",
+    "specialty": "Truck",
+    "experience": "13 years",
+    "image": "https://i.ytimg.com/vi/JJw78VCBEww/hqdefault.jpg?days_since_epoch=20529",
+    "phone": "+919810000122"
+  },
+  {
+    "id": 23,
+    "name": "Kakkar Cycle Wala",
+    "rating": 4.5,
+    "distance": "0.8 km",
+    "specialty": "Cycle",
+    "experience": "6 years",
+    "image": "https://content.jdmagicbox.com/comp/dhanbad/d9/9999px326.x326.180905115713.v6d9/catalogue/anwar-cycle-repairing-shop-saraidhela-dhanbad-bicycle-repair-and-services-l5pklwj9bc.jpg",
+    "phone": "+919810000123"
+  },
+  {
+    "id": 2,
+    "name": "Om Sai Bike Service",
+    "rating": 4.5,
+    "distance": "0.9 km",
+    "specialty": "Bike",
+    "experience": "8 years",
+    "image": "https://thumbs.dreamstime.com/b/bajaj-automobile-mechanic-modifying-bike-service-center-india-staff-repairing-motorcycle-sales-standing-behind-showroom-162095939.jpg",
+    "phone": "+919810000102"
+  },
+  {
+    "id": 3,
+    "name": "Delhi Truck Repair Hub",
+    "rating": 4.8,
+    "distance": "2.3 km",
+    "specialty": "Truck",
+    "experience": "15 years",
+    "image": "https://www.bharatbenz.com/assets/images/service-03.png",
+    "phone": "+919810000103"
+  },
+  {
+    "id": 4,
+    "name": "Speed Motors Garage",
+    "rating": 4.6,
+    "distance": "1.7 km",
+    "specialty": "Car",
+    "experience": "10 years",
+    "image": "https://content3.jdmagicbox.com/v2/comp/bodhan/h7/9999p8467.8467.170418200730.f6h7/catalogue/indian-car-mechanic-workshop-bodhan-0fvhlyfvsk.jpg",
+    "phone": "+919810000104"
+  },
+  {
+    "id": 5,
+    "name": "Royal Enfield Service Point",
+    "rating": 4.9,
+    "distance": "0.6 km",
+    "specialty": "Bike",
+    "experience": "9 years",
+    "image": "https://content.jdmagicbox.com/v2/comp/hyderabad/j3/040pxx40.xx40.100728144003.u6j3/catalogue/castol-bike-zone-kphb-colony-hyderabad-helmet-dealers-2cu3165.jpg",
+    "phone": "+919810000105"
+  },
+  {
+    "id": 6,
+    "name": "Metro Auto Works",
+    "rating": 4.4,
+    "distance": "3.0 km",
+    "specialty": "Car",
+    "experience": "11 years",
+    "image": "https://content.jdmagicbox.com/v2/comp/nalgonda/q1/9999p8682.8682.240523023430.n4q1/catalogue/sri-seetha-ram-motors-aler-nalgonda-car-repair-and-services-kefjnmbw0v.jpg",
+    "phone": "+919810000106"
+  },
+  {
+    "id": 7,
+    "name": "Highway Truck Care",
+    "rating": 4.7,
+    "distance": "2.1 km",
+    "specialty": "Truck",
+    "experience": "14 years",
+    "image": "https://i.ytimg.com/vi/7_U4ct1rDSA/sddefault.jpg",
+    "phone": "+919810000107"
+  },
+  {
+    "id": 8,
+    "name": "Perfect Bike Clinic",
+    "rating": 4.5,
+    "distance": "1.3 km",
+    "specialty": "Bike",
+    "experience": "7 years",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSqMVIJbFzIBpoSaex8O6jYyCqceffxJNEA&s",
+    "phone": "+919810000108"
+  },
+  {
+    "id": 9,
+    "name": "Star Car Repair",
+    "rating": 4.6,
+    "distance": "2.8 km",
+    "specialty": "Car",
+    "experience": "13 years",
+    "image": "https://static.toiimg.com/thumb/msid-92404575,imgsize-16298,width-400,resizemode-4/fixcraft.jpg",
+    "phone": "+919810000109"
+  },
+  {
+    "id": 10,
+    "name": "Quick Fix Auto Garage",
+    "rating": 4.8,
+    "distance": "0.7 km",
+    "specialty": "Car",
+    "experience": "9 years",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnYHosJWwdqV6JbjQF6Dc6a76j6RfCxKToA&s",
+    "phone": "+919810000110"
+  },
+  {
+    "id": 11,
+    "name": "Punjab Truck Mechanics",
+    "rating": 4.3,
+    "distance": "3.4 km",
+    "specialty": "Truck",
+    "experience": "16 years",
+    "image": "https://3.imimg.com/data3/US/KN/MY-3860876/truck-repairing-service-250x250.jpg",
+    "phone": "+919810000111"
+  },
+  {
+    "id": 12,
+    "name": "Zoom Bike Workshop",
+    "rating": 4.7,
+    "distance": "1.5 km",
+    "specialty": "Bike",
+    "experience": "6 years",
+    "image": "https://c8.alamy.com/comp/2CPFWRE/district-katni-india-january-18-2020-asian-automobile-male-engineer-repairing-bike-engine-at-hero-motorcycle-workshop-2CPFWRE.jpg",
+    "phone": "+919810000112"
+  },
+  {
+    "id": 13,
+    "name": "City Auto Engineers",
+    "rating": 4.6,
+    "distance": "2.0 km",
+    "specialty": "Car",
+    "experience": "12 years",
+    "image": "https://static.vecteezy.com/system/resources/previews/047/264/019/large_2x/indian-car-mechanic-standing-and-working-in-service-station-car-specialists-examining-the-lifted-car-professional-repairmen-wearing-mechanic-uniform-in-blue-color-photo.jpg",
+    "phone": "+919810000113"
+  },
+  {
+    "id": 14,
+    "name": "Sai Bike Care Center",
+    "rating": 4.5,
+    "distance": "2.9 km",
+    "specialty": "Bike",
+    "experience": "8 years",
+    "image": "https://images.financialexpressdigital.com/2019/01/RTrdDPT.jpg?quality=100",
+    "phone": "+919810000114"
+  },
+  {
+    "id": 15,
+    "name": "Elite Car Service Hub",
+    "rating": 4.8,
+    "distance": "1.0 km",
+    "specialty": "Car",
+    "experience": "10 years",
+    "image": "https://www.shutterstock.com/image-photo/car-mechanic-using-laptop-while-260nw-2136145275.jpg",
+    "phone": "+919810000115"
+  },
+  {
+    "id": 16,
+    "name": "National Highway Repairs",
+    "rating": 4.4,
+    "distance": "3.6 km",
+    "specialty": "Truck",
+    "experience": "18 years",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/330090268/NG/IJ/RB/543658/sml-isuzu-truck-repairing-service-500x500.jpg",
+    "phone": "+919810000116"
+  },
+  {
+    "id": 17,
+    "name": "Rapid Bike Mechanics",
+    "rating": 4.7,
+    "distance": "1.8 km",
+    "specialty": "Bike",
+    "experience": "7 years",
+    "image": "https://i.ytimg.com/vi/9ZaDBxT88-o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUUl1r4rqN39T7A2vo83MlG4zmBg",
+    "phone": "+919810000117"
+  },
+  {
+    "id": 18,
+    "name": "South India Auto Works",
+    "rating": 4.6,
+    "distance": "2.4 km",
+    "specialty": "Car",
+    "experience": "11 years",
+    "image": "https://img.freepik.com/premium-photo/indian-car-mechanic-standing-working-service-station-car-specialists-examining-lifted-car-professional-repairmen-wearing-mechanic-uniform-blue-color_255667-45756.jpg",
+    "phone": "+919810000118"
+  },
+  {
+    "id": 19,
+    "name": "Bike Rescue Point",
+    "rating": 4.9,
+    "distance": "0.5 km",
+    "specialty": "Bike",
+    "experience": "5 years",
+    "image": "https://picsum.photos/seed/garage19/200/200",
+    "phone": "+919810000119"
+  },
+  {
+    "id": 20,
+    "name": "Power Truck Garage",
+    "rating": 4.5,
+    "distance": "3.2 km",
+    "specialty": "Truck",
+    "experience": "14 years",
+    "image": "https://content.jdmagicbox.com/comp/mysore/v7/0821px821.x821.220418210324.u6v7/catalogue/hindustan-trucks-hootagalli-mysore-electronic-goods-showrooms-ppn0kfvg0i.jpg",
+    "phone": "+919810000120"
+  }
+]
